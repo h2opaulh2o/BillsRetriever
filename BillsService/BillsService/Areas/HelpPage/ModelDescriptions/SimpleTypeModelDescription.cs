@@ -1,0 +1,6 @@
+namespace BillsService.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
